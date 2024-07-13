@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Dummy Chrome Extension",
+  "description": "This is dummy extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
